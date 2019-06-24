@@ -1,0 +1,35 @@
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csprojResolveAssemblyReference.cache
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.pdb
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+C:\Users\sena.aslibay\Documents\gitrepo\sena_smartpro\c#\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+F:\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+F:\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+F:\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+C:\Users\mustafa.isik\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+C:\Users\mustafa.isik\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+C:\Users\mustafa.isik\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+E:\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+E:\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+E:\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.pdb
+C:\Users\osman.ban\Desktop\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csprojResolveAssemblyReference.cache
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csprojAssemblyReference.cache
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csproj.CoreCompileInputs.cache
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe
+D:\GitProje\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.pdb
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe.config
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.exe
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\bin\Debug\sinemaPrjj.pdb
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csprojAssemblyReference.cache
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.exe
+C:\Users\Mehmet ASLIBAY\Downloads\2019_01_15_sinemaProjesi\sinemaPrjj\obj\Debug\sinemaPrjj.pdb
